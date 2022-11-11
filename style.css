@@ -1,0 +1,74 @@
+*{
+    margin: 0%;
+    padding: 0%;
+  }
+  body{
+    background:rgba(4, 56, 115, 1);
+
+  }
+  .home{
+    background:rgba(4, 56, 115, 1);
+    display: flex;
+    
+  }
+  .cabecario{
+    
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    align-items: center;
+    justify-content: space-around;
+
+  }
+  .logo{
+    justify-content: left;
+   
+    width: 30%;
+
+  }
+  .buttons{
+   
+   width: 40%;
+   align-items: center;
+   justify-content: space-around;
+
+  }
+  .btns_logo{
+    justify-content: center;
+    
+    width: 30%;
+  }
+.btns1{
+ background-color:  rgba(255, 228, 146, 1);
+
+}
+.btns2{
+    background-color: blue;
+
+}
+.corpo{
+    align-items: center;
+}
+  .alinhar{
+  align-items: center;
+
+
+  }
+  .centro{
+    align-items: center;
+    display: flex;
+    align-items: center;
+    
+  }
+  .tela_meio{
+    
+    align-items: center;
+    justify-content: center;
+  }
+ .quadro_meio{
+    align-items: center;
+    justify-content: center;
+    
+ }
+
+ 
